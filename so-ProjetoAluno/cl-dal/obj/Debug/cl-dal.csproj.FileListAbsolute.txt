@@ -1,0 +1,18 @@
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-dal\bin\Debug\cl-dal.dll
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-dal\bin\Debug\cl-dal.pdb
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-dal\obj\Debug\cl-dal.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-dal\obj\Debug\cl-dal.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-dal\obj\Debug\cl-dal.dll
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-dal\obj\Debug\cl-dal.pdb
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-dal\bin\Debug\cl-modelos.dll
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-dal\bin\Debug\cl-modelos.pdb
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-dal\obj\Debug\cl-dal.csproj.CopyComplete
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-dal\bin\Debug\cl-dal.dll
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-dal\bin\Debug\cl-dal.pdb
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-dal\bin\Debug\cl-modelos.dll
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-dal\bin\Debug\cl-modelos.pdb
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-dal\obj\Debug\cl-dal.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-dal\obj\Debug\cl-dal.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-dal\obj\Debug\cl-dal.csproj.CopyComplete
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-dal\obj\Debug\cl-dal.dll
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-dal\obj\Debug\cl-dal.pdb

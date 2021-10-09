@@ -1,0 +1,22 @@
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-regras\obj\Debug\cl-regras.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-regras\obj\Debug\cl-regras.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-regras\bin\Debug\cl-regras.dll
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-regras\bin\Debug\cl-regras.pdb
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-regras\bin\Debug\cl-dal.dll
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-regras\bin\Debug\cl-modelos.dll
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-regras\bin\Debug\cl-dal.pdb
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-regras\bin\Debug\cl-modelos.pdb
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-regras\obj\Debug\cl-regras.csproj.CopyComplete
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-regras\obj\Debug\cl-regras.dll
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-regras\obj\Debug\cl-regras.pdb
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-regras\bin\Debug\cl-regras.dll
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-regras\bin\Debug\cl-regras.pdb
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-regras\bin\Debug\cl-dal.dll
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-regras\bin\Debug\cl-modelos.dll
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-regras\bin\Debug\cl-dal.pdb
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-regras\bin\Debug\cl-modelos.pdb
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-regras\obj\Debug\cl-regras.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-regras\obj\Debug\cl-regras.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-regras\obj\Debug\cl-regras.csproj.CopyComplete
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-regras\obj\Debug\cl-regras.dll
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-regras\obj\Debug\cl-regras.pdb

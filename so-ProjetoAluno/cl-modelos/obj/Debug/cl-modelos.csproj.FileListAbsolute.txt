@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-modelos\bin\Debug\cl-modelos.dll
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-modelos\bin\Debug\cl-modelos.pdb
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-modelos\obj\Debug\cl-modelos.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-modelos\obj\Debug\cl-modelos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-modelos\obj\Debug\cl-modelos.dll
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\cl-modelos\obj\Debug\cl-modelos.pdb
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-modelos\bin\Debug\cl-modelos.dll
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-modelos\bin\Debug\cl-modelos.pdb
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-modelos\obj\Debug\cl-modelos.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-modelos\obj\Debug\cl-modelos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-modelos\obj\Debug\cl-modelos.dll
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\cl-modelos\obj\Debug\cl-modelos.pdb
