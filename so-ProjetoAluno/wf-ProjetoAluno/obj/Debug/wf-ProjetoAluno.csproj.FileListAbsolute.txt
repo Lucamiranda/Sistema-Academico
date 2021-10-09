@@ -1,0 +1,53 @@
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\wf-ProjetoAluno.exe.config
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\wf-ProjetoAluno.exe
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\wf-ProjetoAluno.pdb
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf-ProjetoAluno.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.Properties.Resources.resources
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf-ProjetoAluno.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf-ProjetoAluno.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf-ProjetoAluno.exe
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf-ProjetoAluno.pdb
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmPrincipal.resources
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmDisciplinas.resources
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmPeriodos.resources
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\cl-dal.dll
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\cl-modelos.dll
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\cl-dal.pdb
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\cl-modelos.pdb
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmPeriodoConsultar.resources
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmDisciplinaConsultar.resources
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmCurso.resources
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmCursoConsultar.resources
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmPeriodosPesquisa.resources
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmDisciplinaPesquisa.resources
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmCursoPesquisa.resources
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmLogin.resources
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf-ProjetoAluno.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmCurso.resources
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmCursoConsultar.resources
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmCursoPesquisa.resources
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmDisciplinaConsultar.resources
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmDisciplinaPesquisa.resources
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmDisciplinas.resources
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmLogin.resources
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmPeriodoConsultar.resources
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmPeriodos.resources
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmPeriodosPesquisa.resources
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.frmPrincipal.resources
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf_ProjetoAluno.Properties.Resources.resources
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf-ProjetoAluno.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf-ProjetoAluno.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf-ProjetoAluno.exe
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf-ProjetoAluno.pdb
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\wf-ProjetoAluno.exe.config
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\wf-ProjetoAluno.exe
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\wf-ProjetoAluno.pdb
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\cl-dal.dll
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\cl-modelos.dll
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\cl-dal.pdb
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\cl-modelos.pdb
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\obj\Debug\wf-ProjetoAluno.csproj.CopyComplete
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\cl-regras.dll
+C:\Users\lucas\Desktop\ProjetoAluno - Copia\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\cl-regras.pdb
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\cl-regras.dll
+C:\Users\lucas\Desktop\ProjetoAluno\so-ProjetoAluno\wf-ProjetoAluno\bin\Debug\cl-regras.pdb

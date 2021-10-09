@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9EB9EE94-3E70-44AE-93D2-049AB8B2FD25}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>wf_ProjetoAluno</RootNamespace>
+    <AssemblyName>wf-ProjetoAluno</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCurso.Designer.cs">
+      <DependentUpon>frmCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCursoConsultar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCursoConsultar.Designer.cs">
+      <DependentUpon>frmCursoConsultar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCursoPesquisa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCursoPesquisa.Designer.cs">
+      <DependentUpon>frmCursoPesquisa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDisciplinaConsultar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDisciplinaConsultar.Designer.cs">
+      <DependentUpon>frmDisciplinaConsultar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDisciplinaPesquisa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDisciplinaPesquisa.Designer.cs">
+      <DependentUpon>frmDisciplinaPesquisa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDisciplinas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDisciplinas.Designer.cs">
+      <DependentUpon>frmDisciplinas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPeriodoConsultar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPeriodoConsultar.Designer.cs">
+      <DependentUpon>frmPeriodoConsultar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPeriodos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPeriodos.Designer.cs">
+      <DependentUpon>frmPeriodos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPeriodosPesquisa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPeriodosPesquisa.Designer.cs">
+      <DependentUpon>frmPeriodosPesquisa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCurso.resx">
+      <DependentUpon>frmCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCursoConsultar.resx">
+      <DependentUpon>frmCursoConsultar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCursoPesquisa.resx">
+      <DependentUpon>frmCursoPesquisa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDisciplinaConsultar.resx">
+      <DependentUpon>frmDisciplinaConsultar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDisciplinaPesquisa.resx">
+      <DependentUpon>frmDisciplinaPesquisa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDisciplinas.resx">
+      <DependentUpon>frmDisciplinas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPeriodoConsultar.resx">
+      <DependentUpon>frmPeriodoConsultar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPeriodos.resx">
+      <DependentUpon>frmPeriodos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPeriodosPesquisa.resx">
+      <DependentUpon>frmPeriodosPesquisa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\cl-modelos\cl-modelos.csproj">
+      <Project>{ff2fc292-7f29-40dd-bc5d-615c8f0cc7e1}</Project>
+      <Name>cl-modelos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\cl-regras\cl-regras.csproj">
+      <Project>{63fb5c0c-2adb-46e5-a558-c668e43d24b9}</Project>
+      <Name>cl-regras</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
